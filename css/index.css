@@ -1,0 +1,24 @@
+h1 {
+	color: purple;
+	text-decoration: underline;
+	font-size: 80px;
+
+li {color:green;}			}
+
+ul li {
+	color: blue;
+				}
+ol li {
+	color: green;
+				}
+.done {text-decoration: line-through;}
+#tomorrow li {font-weight: bold;}
+
+#square {
+	width: 200px;
+	height: 200px;
+	padding: 50px;
+	background-color:#AABBDD;
+	border: 50px solid red;
+	margin: 50px;
+		}
